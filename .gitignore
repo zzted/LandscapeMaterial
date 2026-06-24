@@ -1,0 +1,16 @@
+Content/*
+!Content/Materials
+!Content/Materials/**
+
+Intermediate/
+DerivedDataCache/
+Saved/
+Binaries/
+Build/
+.vs/
+*.VC.db
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.user
